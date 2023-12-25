@@ -6,8 +6,7 @@ on:
   pull_request:
     branches: [ "Master-Lukáš" ]
 
-jobs:
-  build:all
+jobs: build:all
 
     runs-on: Ubuntu-latest
 
