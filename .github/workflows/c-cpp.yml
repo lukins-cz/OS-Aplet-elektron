@@ -9,7 +9,7 @@ on:
 jobs:
   build:all
 
-    runs-on: OS Aplet
+    runs-on: Ubuntu-latest
 
     steps:
     - uses: actions/checkout@v3
