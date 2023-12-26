@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       branch-name:
-        description: Branch name (e.g. `29-x-y`)
+        description: Branch name mistr-lukins
         required: true
         type: string
   create:
